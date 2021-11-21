@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="5.2970" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-21T17:23:48" tests="0" file="cypress/integration/apiTesting/api_test_conduit_spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API Testing of Conduit App" timestamp="2021-11-21T17:23:48" tests="4" time="5.2970" failures="0">
+    <testcase name="API Testing of Conduit App GET Tags API" time="2.3610" classname="GET Tags API">
+    </testcase>
+    <testcase name="API Testing of Conduit App Add article" time="1.3890" classname="Add article">
+    </testcase>
+    <testcase name="API Testing of Conduit App Edit Article" time="0.8080" classname="Edit Article">
+    </testcase>
+    <testcase name="API Testing of Conduit App Delete Article" time="0.7390" classname="Delete Article">
+    </testcase>
+  </testsuite>
+</testsuites>
